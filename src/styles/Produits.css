@@ -20,7 +20,7 @@
     width: 40%; /* largeur de 90% */
     height: auto;
     height: 500px;/* hauteur fixe */
-    background: #d0d6dc;
+    background-color: #d0d6dc;
 }
 .div1{
     display: flex;
@@ -71,4 +71,9 @@ left: 600px;
     height: auto;
     height: 500px;/* hauteur fixe */
     background: #d1e5e6;
+}
+.para1{
+    justify-content: center;
+    font-size: 15px;
+    font-weight: bold;
 }

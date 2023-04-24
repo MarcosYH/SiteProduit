@@ -10,7 +10,7 @@ function Produits() {
             <div className="div1">
                 <img src={img1} alt="img1" className="img1"/>
                 <div className="bloc1">
-                    <p> </p>
+                    <p className="para1"> </p>
                 </div>
             </div>
             <div className="div2">
