@@ -1,11 +1,10 @@
 .img1{
-    float: left;
     max-width: 80%;
     height: auto;
     margin: auto;
-   margin-left: 50px;
-    top: 100px;
-    position: relative;
+    padding: 20px;
+
+
    /* position: relative;
     width: 30%;
     left: 211px;
@@ -47,14 +46,11 @@
     top: 100px;
 }
 .img2{
-    float: right;
-    max-width: 100%;
-    right : 20px;
+
+    max-width: 80%;
     height: auto;
-    top: 401px;
-    position: relative;
     margin: auto;
-    position: relative;
+    padding: 20px;
 }
 .bloc2{
     position: relative;
@@ -70,13 +66,10 @@
     border-radius: 5px;
 }
 .img4{
-    position: relative;
-float: left;
-    top: 400px;
-    max-width: 100%;
-    height: 70%;
+    max-width: 80%;
+    height: auto;
     margin: auto;
-    margin-left: 30px;
+    padding: 20px;
 }
 .bloc3{
     position: relative;
@@ -90,10 +83,7 @@ float: left;
     background: #d1e5e6;
 }
 .para1{
-    justify-content: center;
-    margin: auto;
-    width: 80%;
-    position: relative;
-    top: 100px;
+
+    top: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
